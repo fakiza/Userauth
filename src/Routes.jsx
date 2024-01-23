@@ -22,7 +22,7 @@ const router = createBrowserRouter([
     },   
 ],
 {
-    basename:"/authentication/"
+    basename:"/Userauth/"
 }
 )
 
